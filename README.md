@@ -5,7 +5,7 @@
 ### Full Stack Developer · Software Engineering Undergraduate · Sri Lanka 🇱🇰
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React+%26+Spring+Boot+Developer;MERN+Stack+Developer;Flutter+Developer;Building+Scalable+Digital+Solutions"
+src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React+%26+Spring+Boot+Developer;MERN+Stack+Developer;Flutter+Developer;React+Native+Developer;Building+Scalable+Digital+Solutions"
 alt="Typing introduction"
 />
 
